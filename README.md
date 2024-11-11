@@ -1,5 +1,5 @@
 # AAI_590_Group_9_Capstone
-// Working templet
+// Working template
 # Type I Diabetes Management System with Advanced Predictive Modeling
 
 ## Project Overview
