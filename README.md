@@ -1,5 +1,5 @@
 # AAI_590_Group_9_Capstone
-# Predictive Analytics for Type 1 & 2 Health (P.A.T.H.): An Integrated Diabetes Management System
+# Predictive Analytics for Type 1 Health (P.A.T.H.): An Integrated Diabetes Management System
 
 ## Project Overview
 
